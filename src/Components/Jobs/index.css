@@ -1,0 +1,117 @@
+.jobs-container {
+  background-color: #000000;
+  height: 100vh;
+}
+
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 160px;
+  width: 240px;
+  border-radius: 15px;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.profileImage {
+  margin-top: 10px;
+  height: 40px;
+}
+
+.profileName {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #6366f1;
+  margin: 0px;
+  margin-top: 6px;
+}
+
+.profileBio {
+  font-family: 'Roboto';
+  color: #7e858e;
+  line-height: 1.5;
+  font-size: 13px;
+}
+
+.horizontal-line {
+  border: 1px solid #475569;
+  margin-top: 20px;
+}
+
+.profileSectionAndSpecification {
+  width: 250px;
+  margin-left: 80px;
+  margin-top: 25px;
+  margin-right: 50px;
+}
+
+.typeOfEmployment {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #f1f5f9;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.labelText {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+
+.salaryText {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.salaryRange {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 15px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.salary-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+
+.searchField {
+  border-color: #475569;
+  /* background-color: #475569; */
+}
+
+.jobs-and-jobListContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.jobs-list-container {
+  margin-top: 25px;
+}
+
+.searchField {
+  background-color: #000000;
+  height: 30px;
+  border: 1px solid #475569;
+  padding-left: 15px;
+}
+
+.search-container {
+  height: 30px;
+}
